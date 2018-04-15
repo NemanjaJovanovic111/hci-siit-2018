@@ -1,5 +1,7 @@
 # hci-siit-2018
 
+## ZAMENITI API KEY u API_KEYS.CS ZA PRAVIM KEY-em!!!
+
 Install-Package Avapi -Version 1.4.8.1
 
 Project desni klik
