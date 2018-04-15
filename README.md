@@ -8,7 +8,8 @@ Project desni klik
 -> Newtonsoft json
 
 ===============
-Za degene:
+
+
 
 za dijagrame deckoooo
 Install-Package LiveCharts.Geared
